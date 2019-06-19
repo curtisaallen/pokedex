@@ -1,7 +1,7 @@
 # Pokedex React App
 Pokedex React App is build using the create react app
 
-![](https://github.com/curtisaallen/addressbook-app/blob/master/addressbook-demo.png)
+![](https://github.com/curtisaallen/pokedex/pokedx-demo.png)
 
 ### Demo
 [Pokedex React App - Live DEMO](https://curtisaallen.github.io/pokedex/build/index.html)
