@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/pokedex/build/static/css/main.c5780f4d.chunk.css",
+    "main.js": "/pokedex/build/static/js/main.f9da9a8b.chunk.js",
+    "main.js.map": "/pokedex/build/static/js/main.f9da9a8b.chunk.js.map",
+    "runtime~main.js": "/pokedex/build/static/js/runtime~main.d3f421a7.js",
+    "runtime~main.js.map": "/pokedex/build/static/js/runtime~main.d3f421a7.js.map",
+    "static/js/2.98dcc9dd.chunk.js": "/pokedex/build/static/js/2.98dcc9dd.chunk.js",
+    "static/js/2.98dcc9dd.chunk.js.map": "/pokedex/build/static/js/2.98dcc9dd.chunk.js.map",
+    "index.html": "/pokedex/build/index.html",
+    "precache-manifest.dbb15f533ddb4177492cda7afb1218a7.js": "/pokedex/build/precache-manifest.dbb15f533ddb4177492cda7afb1218a7.js",
+    "service-worker.js": "/pokedex/build/service-worker.js",
+    "static/css/main.c5780f4d.chunk.css.map": "/pokedex/build/static/css/main.c5780f4d.chunk.css.map",
+    "static/media/App.css": "/pokedex/build/static/media/mapbg.84c79489.jpg",
+    "static/media/pokemon-go-logo.webp": "/pokedex/build/static/media/pokemon-go-logo.d43977a6.webp"
+  }
+}
